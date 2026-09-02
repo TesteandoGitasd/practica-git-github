@@ -1,3 +1,7 @@
-Nombre: Fernando Karg
+Nombre: Fernando
 Carrera: Analista en sistemas
-Descripcion: Foro EStudiantil Superior Iper 1308
+Proyecto: Foro Estudiantil Ipet 1308
+objetivos:facilitar un poco el desarrollo del ciclo lectivo
+
+
+Objetivos: Facilitar el Desarrollo de la carrera a los Estudiantes
